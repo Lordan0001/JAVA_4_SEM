@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="SelStudent.SelStudent" id="SelStudent0">
+  <void property="students">
+   <void method="add">
+    <object class="Student.Student" id="Student0">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student0"/>
+       <object class="java.lang.Enum" method="valueOf">
+        <class>Student.Curs</class>
+        <string>First</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student0"/>
+       <object class="java.lang.Enum" id="FormOfEducation0" method="valueOf">
+        <class>Student.FormOfEducation</class>
+        <string>Day</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student0"/>
+       <int>8</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student0"/>
+       <string>Vladislav</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student0"/>
+       <string>Bialitski</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Student.Student" id="Student1">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student1"/>
+       <object class="java.lang.Enum" id="Curs0" method="valueOf">
+        <class>Student.Curs</class>
+        <string>Second</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student1"/>
+       <object class="java.lang.Enum" id="FormOfEducation1" method="valueOf">
+        <class>Student.FormOfEducation</class>
+        <string>Night</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student1"/>
+       <int>9</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student1"/>
+       <string>Masha</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student1"/>
+       <string>Vorontsova</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Student.Student" id="Student2">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student2"/>
+       <object class="java.lang.Enum" method="valueOf">
+        <class>Student.Curs</class>
+        <string>Third</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student2"/>
+       <object idref="FormOfEducation1"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student2"/>
+       <int>4</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student2"/>
+       <string>Vladimir</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student2"/>
+       <string>Vorontsov</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Student.Student" id="Student3">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student3"/>
+       <object class="java.lang.Enum" method="valueOf">
+        <class>Student.Curs</class>
+        <string>Fourth</string>
+       </object>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student3"/>
+       <object idref="FormOfEducation0"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student3"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student3"/>
+       <string>Nikita</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student3"/>
+       <string>Petrov</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Student.Student" id="Student4">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student4"/>
+       <object idref="Curs0"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student4"/>
+       <object idref="FormOfEducation1"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student4"/>
+       <int>5</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student4"/>
+       <string>Pete</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student4"/>
+       <string>Djonson</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Student.Student" id="Student5">
+     <void class="Student.Student" method="getField">
+      <string>StCurs</string>
+      <void method="set">
+       <object idref="Student5"/>
+       <object idref="Curs0"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StFormOfEducation</string>
+      <void method="set">
+       <object idref="Student5"/>
+       <object idref="FormOfEducation1"/>
+      </void>
+     </void>
+     <void class="Student.Student" method="getField">
+      <string>StGrade</string>
+      <void method="set">
+       <object idref="Student5"/>
+       <int>7</int>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>FirstName</string>
+      <void method="set">
+       <object idref="Student5"/>
+       <string>Adam</string>
+      </void>
+     </void>
+     <void class="University.University" method="getField">
+      <string>SecondName</string>
+      <void method="set">
+       <object idref="Student5"/>
+       <string>Arivs</string>
+      </void>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

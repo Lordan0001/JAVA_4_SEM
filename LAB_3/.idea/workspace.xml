@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a48ae7c2-3975-40f5-beae-8fa6c4200f20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LAB_5.1/out/production/LAB_5.1/by/Main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5.1/out/production/LAB_5.1/by/Main/Retiree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5.1/out/production/LAB_5.1/by/Main/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5.1/out/production/LAB_5.1/by/Main/Tourist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5.1/out/production/LAB_5.1/by/Main/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/LAB_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/src/MyThread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB_5/src/MyThread/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/serialized.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/src/main/java/Dean/Dean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/src/main/java/Dean/Dean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/src/main/java/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/src/main/java/Student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/target/classes/Dean/Dean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/target/classes/Dean/Dean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/target/classes/Student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/target/classes/Student/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB_4/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/target/classes/com/company/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27PGhzH1sWO60ms4GitsKJTA2V6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="LAB_3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a48ae7c2-3975-40f5-beae-8fa6c4200f20" name="Changes" comment="" />
+      <created>1649214431510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649214431510</updated>
+      <workItem from="1649214432749" duration="18254000" />
+      <workItem from="1649303080644" duration="8092000" />
+      <workItem from="1649392194082" duration="2583000" />
+      <workItem from="1649401321209" duration="524000" />
+      <workItem from="1649404392194" duration="1258000" />
+      <workItem from="1649424235957" duration="1920000" />
+      <workItem from="1651227703203" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="java" type="javaType"/>
+  <xs:complexType name="objectType" mixed="true">
+    <xs:sequence>
+      <xs:element name="class" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Student.Curs"/>
+            <xs:enumeration value="Student.FormOfEducation"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="string" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="First"/>
+            <xs:enumeration value="Day"/>
+            <xs:enumeration value="Second"/>
+            <xs:enumeration value="Night"/>
+            <xs:enumeration value="Third"/>
+            <xs:enumeration value="Fourth"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="voidType" name="void" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="idref" use="optional"/>
+    <xs:attribute type="xs:string" name="class" use="optional"/>
+    <xs:attribute type="xs:string" name="method" use="optional"/>
+    <xs:attribute type="xs:string" name="id" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="voidType">
+    <xs:sequence>
+      <xs:element type="objectType" name="object" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="xs:string" name="string" minOccurs="0"/>
+      <xs:element type="voidType" name="void" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element name="int" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="8"/>
+            <xs:enumeration value="9"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="10"/>
+            <xs:enumeration value="5"/>
+            <xs:enumeration value="7"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="method" use="optional"/>
+    <xs:attribute type="xs:string" name="class" use="optional"/>
+    <xs:attribute type="xs:string" name="property" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="javaType">
+    <xs:sequence>
+      <xs:element type="objectType" name="object"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="version"/>
+    <xs:attribute type="xs:string" name="class"/>
+  </xs:complexType>
+</xs:schema>

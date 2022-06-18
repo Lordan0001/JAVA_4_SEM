@@ -1,0 +1,49 @@
+        //один объект
+        /* XmlMapper xmlMapper = new XmlMapper();
+        Student sa = new Student("Vlad", "Bel", Curs.Fourth, FormOfEducation.Day, 9);
+        String xmlString = xmlMapper.writeValueAsString(sa);
+        System.out.println(xmlString);*/
+
+
+        /*        Col col = new Col();
+               // col.SerializeCollection(studList);
+                ArrayList<Student> desStud = new ArrayList<Student>();
+                XmlMapper xmlMapper1 = new XmlMapper();
+
+                // read file and put contents into the string
+                String readContent = new String(Files.readAllBytes(Paths.get("Newserialized.xml")));
+
+                for (int i = 0; i < studList.size(); i++) {
+                    Student deserializedData = xmlMapper1.readValue(readContent, Student.class);
+                    desStud.add(deserializedData);
+                    System.out.println(deserializedData.SecondName);
+                }
+
+                System.out.println(desStud.get(3).FirstName);*/
+
+
+                /*        listNewStud.setStudents(studList);
+                        XMLEncoder encoder = null;
+                        try{
+                            encoder=new XMLEncoder(new BufferedOutputStream(new FileOutputStream("SecondSerial.xml")));
+                        }catch(FileNotFoundException fileNotFound){
+                            System.out.println("ERROR: While Creating or Opening the File dvd.xml");
+                        }
+                        encoder.writeObject(listNewStud);
+                        encoder.close();*/
+
+                        /*        String SERIALIZED_FILE_NAME="SecondSerial.xml";
+                                XMLDecoder decoder1=null;
+                                try {
+                                    decoder1=new XMLDecoder(new BufferedInputStream(new FileInputStream(SERIALIZED_FILE_NAME)));
+                                } catch (FileNotFoundException e) {
+                                    System.out.println("ERROR: File dvd.xml not found");
+                                }
+
+                                SelStudent listNewStud1=(SelStudent)decoder1.readObject();
+                                ArrayList<Student> finList = new ArrayList<Student>();
+                                for (int i = 0; i < studList.size() ; i++) {
+                                    finList.add((Student) listNewStud1.getStudents().get(i));
+                                }*/
+                                https://www.edureka.co/blog/serialization-of-java-objects-to-xml-using-xmlencoder-decoder/
+                                D:\University\БГТУ\2 Курс\4. Семместр\JAVA\All Lab\LAB_4\out\artifacts\LAB_3_jar>java -jar "LAB_3.jar"
